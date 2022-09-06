@@ -1,0 +1,7 @@
+Pedido: 20
+cliente: Felipe 
+direccion: CArvajal
+item: gaseosa 5000
+Precio neto: 5000
+Precio IVA: 950
+Precio total: 5950

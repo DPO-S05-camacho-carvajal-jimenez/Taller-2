@@ -1,0 +1,8 @@
+Pedido: 14
+cliente: fe
+direccion: f
+item: todoterreno 25000
+Precio neto: 25000
+Precio IVA: 4750
+Precio total: 29750
+Calorias totales: 
