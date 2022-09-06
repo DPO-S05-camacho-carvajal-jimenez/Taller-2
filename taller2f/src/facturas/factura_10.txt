@@ -1,0 +1,9 @@
+Pedido: 10
+cliente: felipe
+direccion: calle
+item: agua cristal con gas 5000
+item: todoterreno 25000
+item: gaseosa 5000
+Precio neto: 35000
+Precio IVA: 6650
+Precio total: 41650
